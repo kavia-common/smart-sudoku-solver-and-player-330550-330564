@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-sudoku-solver-and-player-330550-330564/sudoku_frontend"
+}
